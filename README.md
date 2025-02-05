@@ -1,10 +1,10 @@
-# secretFriend
+# AmigoSecreto
 
-This is a minimal web application designed to showcase the general idea of front-end integration using HTML, CSS, and Javascript. 
+Esta es una aplicación mínima diseñada para demostrar el uso de html, css, y javascript. 
 
-The project allows users to dynamically add friends' names through an input field and select one at random with the click of a button. It serves as a demonstration of basic web development concepts, including DOM manipulation, event handling, and user interaction.
+El proyecto permite que los usuarios crear una lista de amigos y seleccionar uno de manera aleatoria. Sirve para demostar los conceptos básicos de desarrollo web, incluyendo manipulación del DOM, manejo de eventos, e interacción con el usuario. 
 
-# Developed with
+# Desarrollado con
 
 - Html
 - CSS
