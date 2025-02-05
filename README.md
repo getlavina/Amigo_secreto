@@ -10,8 +10,6 @@ The project allows users to dynamically add friends' names through an input fiel
 - CSS
 - Javascript
 
-# Screenshot
 
-![capture.png](assets/capture.PNG)
 
 
